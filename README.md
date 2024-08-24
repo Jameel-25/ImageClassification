@@ -38,7 +38,7 @@ The model's generalization capabilities were assessed by evaluating its performa
 ## How to Run
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Jameel-25/ImageClassification.git
+    https://github.com/Jameel-25/ImageClassification.git
     ```
 2. Install the required dependencies:
     ```bash
